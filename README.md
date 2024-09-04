@@ -19,7 +19,7 @@ Three key datasets for this project
 <li>Geography </li>
 
 ### Tool used:
-<li> <b> Power BI Data Source:</b> CSV file and Excel (Contains over 10,0000 rows data) </li>
+<li> <b> Power BI Data Source:</b> CSV files and Excel (Contains over 10,0000 rows data) </li>
 <li> <b> Relevant KPI:</b> Total Customers, Active Customers, Inactive Customers, Credit Card Holder, Non Credit Card Holder, Exit Customers, Retain Customers </li>
 
 ### DAX Functions Used:

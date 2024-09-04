@@ -5,7 +5,7 @@ This project offers an in-depth analysis of bank churn data. Churn in this conte
 
 ### Objective
 <li> Understand and analyze the factors contributing to customer churn.</li>
-<li> Develop actionable insights from the data to help reduce churn. <li>
+<li> Develop actionable insights from the data to help reduce churn. </li>
 
 ### Datasets used
 Three key datasets for this project
@@ -22,17 +22,14 @@ Three key datasets for this project
 <b> Power BI Data Source:</b> CSV file and Excel (Contains over 10,0000 rows data)
 <b> Relevant KPI:</b> Total Customers, Active Customers, Inactive Customers, Credit Card Holder, Non Credit Card Holder, Exit Customers, Retain Customers
 
-### 𝗧𝗼𝗼𝗹 𝘂𝘀𝗲𝗱 : 
-POWER BI 𝗗𝗮𝘁𝗮 𝗦𝗼𝘂𝗿𝗰𝗲 : EXCEL ( Contains over 10,000 rows data ) 𝗥𝗲𝗹𝗲𝘃𝗮𝗻𝘁 𝗞𝗣𝗜 :
-
-# 𝗗𝗔𝗫 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀 𝗨𝘀𝗲𝗱 : 
+## DAX Functions Used:
 count , distinctcount , calculate , calender , year, month, format , previousmonth , divide, switch true()
 
-## 𝗩𝗶𝘀𝘂𝗮𝗹𝘀 𝘂𝘀𝗲𝗱: 
+## Visuals used:
 cards, textbox , stacked column chart , bar chart, line chart , Q&A (for making pie chart) , donut chart, matrix , decomposition tree , smart narrative, slicers
 
-## 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀 𝘂𝘀𝗲𝗱: 
+## Features used:
 Buttons, shape, drill up , bookmark navigator
 
-## 𝗪𝗵𝗮𝘁 𝗮𝗿𝗲 𝘄𝗲 𝗴𝗼𝗶𝗻𝗴 𝘁𝗼 𝗮𝗰𝗵𝗶𝗲𝘃𝗲 ? 
+## What are we going to achieve?
 After consuming the dashboard by the business user they can take data driven decisions around implemented targeted retention strategies, such as personalized offers and enhanced customer service, resulting in a 15% improvement in customer retention and a 10% reduction in overall churn rates.

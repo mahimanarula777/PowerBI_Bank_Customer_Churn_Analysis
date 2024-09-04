@@ -19,8 +19,8 @@ Three key datasets for this project
 <li>Geography </li>
 
 ## Tool used:
-<b> Power BI Data Source:</b> CSV file and Excel (Contains over 10,0000 rows data)
-<b> Relevant KPI:</b> Total Customers, Active Customers, Inactive Customers, Credit Card Holder, Non Credit Card Holder, Exit Customers, Retain Customers
+<li> <b> Power BI Data Source:</b> CSV file and Excel (Contains over 10,0000 rows data) </li>
+<li> <b> Relevant KPI:</b> Total Customers, Active Customers, Inactive Customers, Credit Card Holder, Non Credit Card Holder, Exit Customers, Retain Customers </li>
 
 ## DAX Functions Used:
 count , distinctcount , calculate , calender , year, month, format , previousmonth , divide, switch true()

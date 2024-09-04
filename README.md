@@ -1,12 +1,11 @@
 # PowerBI_Bank_Customer_Churn_Analysis  🔍
 
 ## Project Overview
-
 This project offers an in-depth analysis of bank churn data. Churn in this context signifies the number of customers who have left the bank, commonly referred to as attrition. The dataset used for this analysis is a sample, utilized for the purpose of practicing report creation and understanding the various aspects of data analysis using PowerBI.
 
 ## Objective
-Understand and analyze the factors contributing to customer churn.
-Develop actionable insights from the data to help reduce churn.
+##### Understand and analyze the factors contributing to customer churn.
+##### Develop actionable insights from the data to help reduce churn.
 
 ## Datasets used
 Three key datasets for this project
@@ -19,7 +18,7 @@ Exit Customer
 Gender
 Geography
 
-## 𝗧𝗼𝗼𝗹 𝘂𝘀𝗲𝗱 : 
+### 𝗧𝗼𝗼𝗹 𝘂𝘀𝗲𝗱 : 
 POWER BI 𝗗𝗮𝘁𝗮 𝗦𝗼𝘂𝗿𝗰𝗲 : EXCEL ( Contains over 10,000 rows data ) 𝗥𝗲𝗹𝗲𝘃𝗮𝗻𝘁 𝗞𝗣𝗜 : Total Customers, Active Customers, Inactive Customers, Credit Card Holder, Non Credit Card Holder, Exit Customers, Retain Customers
 
 # 𝗗𝗔𝗫 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀 𝗨𝘀𝗲𝗱 : 
